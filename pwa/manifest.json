@@ -1,0 +1,26 @@
+{
+  "name": "Cas Pédagogiques",
+  "short_name": "Cas Pédago",
+  "description": "Saisie rapide de cas pédagogiques en radiologie",
+  "start_url": "/cas-pedago/",
+  "scope": "/cas-pedago/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F3864",
+  "theme_color": "#1F3864",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/cas-pedago/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/cas-pedago/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

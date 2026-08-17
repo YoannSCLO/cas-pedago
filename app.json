@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Cas Pédago",
+    "slug": "cas-pedago",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#1F3864",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "bundleIdentifier": "com.jarvis.caspedago",
+      "supportsTablet": false
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./pwa/icon-192.png"
+    },
+    "experiments": {
+      "baseUrl": "/cas-pedago"
+    }
+  }
+}
